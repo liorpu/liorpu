@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @liorpu, electrical engineering graduate 
+- 👋 Hi, I’m @liorpu, Electrical Engineering Graduate 
 - 👀 I’m interested in software and hardware 
 - 🌱 I’m currently learning freecodecamp
 - 💞️ I’m looking to collaborate on learning how to code
